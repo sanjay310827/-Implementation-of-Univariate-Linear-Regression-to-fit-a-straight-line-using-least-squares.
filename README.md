@@ -57,6 +57,7 @@ plt.plot(x, y_predicted, color='red')
 plt.show()
 
 ```
+# Output:
 
 
 <img width="781" height="587" alt="image" src="https://github.com/user-attachments/assets/0cd2f3ff-274e-49a7-ba6e-af0da1bf2fff" />
