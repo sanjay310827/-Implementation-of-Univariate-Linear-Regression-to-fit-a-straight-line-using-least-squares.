@@ -51,7 +51,11 @@ print(m, b)
 ```python
 y_predicted = m * x + b
 print(y_predicted)
+```
+
 <img width="773" height="80" alt="image" src="https://github.com/user-attachments/assets/63a43b90-a165-4cc8-af4e-0e4152fd586c" />
+
+```
 plt.scatter(x, y)
 plt.plot(x, y_predicted, color='red')
 plt.show()
